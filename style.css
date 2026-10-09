@@ -1,0 +1,35 @@
+.section-title {
+    color:rgb(7, 95, 95);
+    font-size: 25px;
+    font-weight:800;
+    text-align:left;
+    line-height:normal;
+    border-left: 10px solid #205090;
+    padding-left: 10px;
+
+}
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color:blanchedalmond;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+
+}
+.card{
+    background-color:gainsboro;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    border-left: 4px solid #205090;
+}
+card img{
+    
+    display: block;
+    margin: 15px auto;
+}
+h1{
+    text-align:center;
+    color:orangered
+}
